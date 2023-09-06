@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.senac.cenaflixjpa"},{"l":"br.com.senac.cenaflixjpa.DAO"},{"l":"br.com.senac.cenaflixjpa.gui"},{"l":"br.com.senac.cenaflixjpa.persistencia"},{"l":"Util"}];updateSearchResults();
